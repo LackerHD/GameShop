@@ -244,10 +244,6 @@ h2 {
 
 
 
-
-
-
-
 .main_foter {
     width: 100%;
     height: 235px;
@@ -284,8 +280,8 @@ h2 {
     font-size: 16px;
     opacity: 1;
     text-align: center;
-  }
-  .fc {
+}
+.fc {
     width: 75px;
     color: rgba(0,0,0,1);
     position: absolute;
@@ -296,8 +292,8 @@ h2 {
     font-size: 16px;
     opacity: 1;
     text-align: left;
-  }
-  .tg {
+}
+.tg {
     width: 71px;
     color: rgba(0,0,0,1);
     position: absolute;
@@ -308,8 +304,8 @@ h2 {
     font-size: 16px;
     opacity: 1;
     text-align: center;
-  }
-  .vk {
+}
+.vk {
     width: 22px;
     color: rgba(0,0,0,1);
     position: absolute;
@@ -320,8 +316,8 @@ h2 {
     font-size: 16px;
     opacity: 1;
     text-align: center;
-  }
-  .kp {
+}
+.kp {
     width: 397px;
     color: rgba(0,0,0,1);
     position: absolute;
@@ -332,4 +328,4 @@ h2 {
     font-size: 18px;
     opacity: 1;
     text-align: left;
-  }
+}
